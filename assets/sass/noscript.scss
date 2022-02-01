@@ -1,0 +1,35 @@
+@import 'libs/vars';
+@import 'libs/functions';
+@import 'libs/mixins';
+@import 'libs/vendor';
+@import 'libs/breakpoints';
+
+/*
+	RealA by AASAY GLOBAL
+	aasayglob.com | aasay.glb@gmail.com
+	Free for personal and commercial use under the CCA 3.0 license (aasayglob.com/license)
+*/
+
+/* Wrapper */
+
+	#wrapper {
+		opacity: 1 !important;
+	}
+
+/* Overlay */
+
+	#overlay {
+		opacity: 1 !important;
+	}
+
+/* Header */
+
+	#header {
+		opacity: 1 !important;
+
+		nav {
+			li {
+				opacity: 1 !important;
+			}
+		}
+	}
